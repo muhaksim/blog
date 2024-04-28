@@ -1,0 +1,24 @@
+---
+title: "About"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/muhaksim
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/muhaksim
+    - icon: github
+      text: Github
+      href: https://github.com/muhaksim
+---
+
+I am Muhammad Abdullahi. I am really interested in leveraging tech to solve real problems.
+
+Currently, I am trying to learn more about deep learning. I am coming from a software engineering background. I am excited about all the amazing progress in the space. I am excited to contribute to the space because I think there could be many low-hanging fruits in the applied space now more than ever.
+
+I am familiar with Flutter, Nodejs, FastAPI, Python, JavaScript, and NextJS.
+
+Feel free to reach out: `muhammadkaasim3 [@] GMAIL [DOT] COM`
